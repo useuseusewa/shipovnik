@@ -1,0 +1,94 @@
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\bredkakoito.exe.config
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\bredkakoito.exe
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\bredkakoito.pdb
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.csproj.AssemblyReference.cache
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.Form1.resources
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.Properties.Resources.resources
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.csproj.GenerateResource.cache
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.csproj.CoreCompileInputs.cache
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.exe
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.pdb
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\Google.Protobuf.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\MySql.Data.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\MySqlConnector.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Buffers.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Memory.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\ZstdSharp.dll
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\Google.Protobuf.pdb
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\Google.Protobuf.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\MySql.Data.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\MySqlConnector.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Buffers.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Memory.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ragim\source\repos\bredkakoito\bredkakoito\obj\Debug\bredkakoito.csproj.CopyComplete
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\bredkakoito.exe.config
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\bredkakoito.exe
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\bredkakoito.pdb
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\Google.Protobuf.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\MySql.Data.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\MySqlConnector.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Buffers.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Memory.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\ZstdSharp.dll
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\Google.Protobuf.pdb
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\Google.Protobuf.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\MySql.Data.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\MySqlConnector.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Buffers.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Memory.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.csproj.AssemblyReference.cache
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.Form1.resources
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.Properties.Resources.resources
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.csproj.GenerateResource.cache
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.csproj.CoreCompileInputs.cache
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.csproj.CopyComplete
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.exe
+C:\Users\ragim\source\repos\bredkakoito — копия\bredkakoito\obj\Debug\bredkakoito.pdb
