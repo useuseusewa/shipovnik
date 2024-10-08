@@ -21,7 +21,9 @@ namespace bredkakoito
         public Form1()
         {
             InitializeComponent();
+            // Начальная вкладка
             TabControl.SelectedTab = TabControl.TabPages[1];
+             // Загрузка данных о продуктах
             LoadProductData();
             
             groupBox1.Visible = false;
@@ -52,7 +54,7 @@ namespace bredkakoito
             string phone = textBox44.Text;
             string password = textBox45.Text;
             string kod = textBox46.Text;
-
+            // Валидация данных
             if (string.IsNullOrEmpty(name) || string.IsNullOrEmpty(password) || string.IsNullOrEmpty(kod))
             {
                 MessageBox.Show("Пожалуйста, заполните все поля.");
@@ -129,6 +131,7 @@ namespace bredkakoito
                             textBox8.Text = "";
                             textBox9.Text = "";
                             userId = Convert.ToInt32(reader["id"]);
+                            // Логика перехода на вкладку
                             if ((kod == "QQQ") || (kod == "RRR") || (kod == "UUU"))
                             {
                                 TabControl.SelectedTab = TabControl.TabPages[4];
@@ -178,6 +181,7 @@ namespace bredkakoito
                 }
                 catch (Exception ex)
                 {
+                // Логируйте ошибку вместо показа пользователю
                     MessageBox.Show("Ошибка: " + ex.Message);
                 }
             }
@@ -216,6 +220,7 @@ namespace bredkakoito
         }
         private void button18_Click(object sender, EventArgs e)
         {
+         //можно добавить логику, чтобы не скрывать группы, если они уже скрыты
             TabControl.SelectedTab = TabControl.TabPages[2];
             groupBox1.Visible = false;
             groupBox4.Visible = false;
@@ -282,6 +287,7 @@ namespace bredkakoito
                 {
                     connection.Open();
                     string query = "SELECT * FROM product WHERE name LIKE '%" + searchText + "%'";
+                    // можно закрыть соединение с помощью MySqlDataReader, чтобы избежать возможных проблем
                     MySqlCommand command = new MySqlCommand(query, connection);
                     MySqlDataReader reader = command.ExecuteReader();
                     if (reader.Read())
@@ -323,6 +329,7 @@ namespace bredkakoito
                     adapter.Fill(productTable);
                     dataGridView1.DataSource = productTable;
                 }
+                //можно более детально обрабатывать исключения
                 catch (Exception ex)
                 {
                     MessageBox.Show("Ошибка: " + ex.Message);
@@ -347,6 +354,7 @@ namespace bredkakoito
             }
             groupBox4.Visible = true;
         }
+        //удалить пустой метод
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
         }
@@ -369,9 +377,11 @@ namespace bredkakoito
             }
             groupBox4.Visible = true;
         }
+        //удалить пустой метод
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
         }
+        //удалить пустой метод
         private void button10_Click(object sender, EventArgs e)
         {
 
@@ -398,6 +408,7 @@ namespace bredkakoito
         }
         private int GetProductIdByName(string productName)
         {
+        //добавить проверку перед выполнением запрос, что ProductName не является аустой строкой
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
                 connection.Open();
@@ -419,7 +430,7 @@ namespace bredkakoito
             }
         }
 
-
+        //удаление пустых методов
         private void checkedListBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
         }
@@ -438,6 +449,7 @@ namespace bredkakoito
                 MessageBox.Show("Ошибка: Неверный код доступа");
             }
         }
+        //удаление пустых методов
         private void textBox6_Validating(object sender, System.ComponentModel.CancelEventArgs e)
         {
         }
@@ -494,6 +506,7 @@ namespace bredkakoito
                     command.Parameters.AddWithValue("@name", orderString); 
                     try
                     {
+                    // можно добавить сообщение об успешном добавлении
                         connection.Open();
                         command.ExecuteNonQuery();
                     }
@@ -541,10 +554,12 @@ namespace bredkakoito
                 }
             }
         }
+        //удаление пустых методов
         private void groupBox4_Enter(object sender, EventArgs e)
         {
             
         }
+        //удаление пустых методов
         private void groupBox1_Enter(object sender, EventArgs e)
         {
            
@@ -850,6 +865,7 @@ namespace bredkakoito
                 }
             }
         }
+        //удаление пустых методов
         private void label29_Click(object sender, EventArgs e)
         {
         }
